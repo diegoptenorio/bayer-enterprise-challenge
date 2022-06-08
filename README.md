@@ -29,7 +29,7 @@ $ git clone <https://github.com/diegoptenorio/bayer-enterprise-challenge.git>
 # Acesso
 
 - <a href="https://dbdiagram.io/d/6296993954ce2635273713ac" target="_blank">Modelagem</a>
-- <a href="https://www.figma.com/proto/ZeY5j3CuaMgqpvLvGpqHJ1/Enterprise-Challenge---BAYER?node-id=524%3A2&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=524%3A2" target="_blank">Protótipo funcional</a>
+- <a href="https://www.figma.com/proto/ZeY5j3CuaMgqpvLvGpqHJ1/Enterprise-Challenge---BAYER?node-id=524%3A2&starting-point-node-id=524%3A2&scaling=scale-down-width" target="_blank">Protótipo funcional</a>
 
 # Tech
 
