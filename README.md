@@ -28,6 +28,7 @@ $ git clone <https://github.com/diegoptenorio/bayer-enterprise-challenge.git>
 
 # Acesso
 
+- <a href="https://app.gleek.io/diagrams/cmeY3TfJwpnFRCztHPP6xQ" target="_blank">Entidades</a>
 - <a href="https://dbdiagram.io/d/6296993954ce2635273713ac" target="_blank">Modelagem</a>
 - <a href="https://www.figma.com/proto/ZeY5j3CuaMgqpvLvGpqHJ1/Enterprise-Challenge---BAYER?node-id=524%3A2&starting-point-node-id=524%3A2&scaling=scale-down-width" target="_blank">Protótipo funcional</a>
 
@@ -35,6 +36,7 @@ $ git clone <https://github.com/diegoptenorio/bayer-enterprise-challenge.git>
 
 Ferramentas:
 
+- <a href="https://app.gleek.io/" target="_blank">Gleek</a>
 - <a href="https://www.figma.com" target="_blank">Figma</a>
 - <a href="https://www.eclipse.org/downloads/" target="_blank">Eclipse</a>
 - <a href="https://dbdiagram.io/" target="_blank">DBDiagram</a>
